@@ -1,0 +1,15 @@
+div{
+    background: green;
+    height:100px;
+}
+.black{
+    background: black;
+    height: 100px;
+}
+.pink{
+    background-color: hotpink;
+    
+}
+#red{
+    background-color: red;
+}

@@ -1,0 +1,22 @@
+body{
+    background-image: url("./images/dag.jpg"); 
+    no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+div{
+    background-color: aqua;
+}
+
+h1 {
+    color:Black;
+    font-family: "Madimi One", sans-serif;
+    text-align: center;
+    font-size: 3em;
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 300px;
+    
+}
